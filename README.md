@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
-I am Icseon! Known for being the developer of Cubash, Graphictoria and many other projects.
+I am Icseon!
 
-For more information, visit https://icseon.com
+I'm experienced with writing full-stack web applications, sysadmin & application security.
+
+---
+For more information, visit https://icseon.com.
