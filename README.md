@@ -8,7 +8,9 @@ These are mostly personal projects I do aside from my job.
 With over a decade of programming experience, I continue to enjoy working on new and exciting technology.\
 To learn more about me and my projects, visit https://icseon.com.
 
----
+
+<br/>
+
 ```js
 /* Small motto message to reflect my general thought about software development */
 const motto = 'Most of the time, keeping it simple is the hardest part.';
