@@ -50,3 +50,5 @@ Primarily for low level networking, utilizing the power of TCP and UDP sockets t
  */
 const motto = 'Most of the time, keeping it simple is the hardest part.';
 ```
+
+_Note: I do not use github for version control. I host my own internal git server for that purpose. I may sometimes make older code public_
