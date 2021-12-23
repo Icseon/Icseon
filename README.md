@@ -8,7 +8,7 @@ These are mostly personal projects I do aside from my job.
 With over a decade of programming experience, I continue to enjoy working on new and exciting technology.\
 To learn more about me and my projects, visit https://icseon.com.
 
-### Technologies and languages I've worked with and used in production applications
+### Technologies and languages I've worked with and used in production environments
 - **Express**\
 I use ExpressJS to scaffold a full MVC application and add my own additions on top for purposes such as authentication, authorization and the like through middlware and services.
 
