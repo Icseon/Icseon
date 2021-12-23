@@ -10,7 +10,7 @@ To learn more about me and my projects, visit https://icseon.com.
 
 ### Technologies and languages I've worked with and used in production environments
 - **Express**\
-I use ExpressJS to scaffold a full MVC application and add my own additions on top for purposes such as authentication, authorization and the like through middlware and services.
+I use ExpressJS to scaffold a full MVC application and add my own additions on top for purposes such as authentication, authorization and the like through middleware and services.
 
 - **Vue**\
 All of my projects since 2019 use Vue as the front end framework to ensure a consistent, quick and fluid user experience, no matter how good your internet connection is.
