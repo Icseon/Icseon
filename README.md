@@ -28,7 +28,7 @@ To ensure performance and security of my services, I use cloudflare as a CDN and
 Used in combination with cloudflare to vend off malicious actors. Logs are automatically analyzed to identify threats.
 
 - **MySQL**\
-Starting off as a PHP developer, using MySQL made sense. I conmtinue to use MySQL to this day to store data.
+Starting off as a PHP developer, using MySQL made sense for me. I continue to use MySQL to this day to store data.
 
 - **PHP**\
 Including Laravel and Phalcon as well as self made web frameworks. I no longer use PHP in my personal projects.\
