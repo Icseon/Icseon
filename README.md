@@ -14,7 +14,7 @@ To learn more about me and my projects, visit https://icseon.com.
 ```js
 /* 
  * @author      Icseon <https://github.com/Icseon>
- * @description Small motto message to reflect my general thought about software development
+ * @description Immutable motto message to reflect my general thought about software development
  * @var         String
  */
 const motto = 'Most of the time, keeping it simple is the hardest part.';
