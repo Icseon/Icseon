@@ -8,6 +8,15 @@ These are mostly personal projects I do aside from my job.
 With over a decade of programming experience, I continue to enjoy working on new and exciting technology.\
 To learn more about me and my projects, visit https://icseon.com.
 
+### Technologies and languages I've worked with
+- Python — primarily for low level networking, utilizing the power of TCP and UDP sockets to transmit raw data over the net
+- MySQL
+- Express
+- Vue 3 Vite
+- PHP — including Laravel and Phalcon as well as self made web frameworks
+- x86 assembly
+- C++
+
 
 <br/>
 
