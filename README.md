@@ -9,11 +9,14 @@ With over a decade of programming experience, I continue to enjoy working on new
 To learn more about me and my projects, visit https://icseon.com.
 
 ### Technologies and languages I've worked with
-- Python — primarily for low level networking, utilizing the power of TCP and UDP sockets to transmit raw data over the net
-- MySQL
 - Express
-- Vue 3 Vite
+- Vue
+- nginx
+- memcached & redis
+- MySQL
 - PHP — including Laravel and Phalcon as well as self made web frameworks
+- Java & Kotlin — primarily for Android application development
+- Python — primarily for low level networking, utilizing the power of TCP and UDP sockets to transmit raw data over the net
 - x86 assembly
 - C++
 
