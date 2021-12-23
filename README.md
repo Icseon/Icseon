@@ -32,7 +32,8 @@ Starting off as a PHP developer, using MySQL made sense. I conmtinue to use MySQ
 
 - **PHP**\
 Including Laravel and Phalcon as well as self made web frameworks.\
-I no longer use PHP in my personal projects but continue to use it for work. Read why here: https://icseon.com/posts/2020-12-01-why-i-am-switching-to-expressjs/
+I no longer use PHP in my personal projects but continue to use it for work.\
+Read why here: https://icseon.com/posts/2020-12-01-why-i-am-switching-to-expressjs/
 
 - **Java & Kotlin**\
 Primarily for Android application development
