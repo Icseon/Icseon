@@ -8,7 +8,7 @@ These are mostly personal projects I do aside from my job.
 With over a decade of programming experience, I continue to enjoy working on new and exciting technology.\
 To learn more about me and my projects, visit https://icseon.com.
 
-### Technologies and languages I've worked with
+### Technologies and languages I've worked with and used in production applications
 - Express
 - Vue
 - nginx
@@ -19,6 +19,7 @@ To learn more about me and my projects, visit https://icseon.com.
 - Python — primarily for low level networking, utilizing the power of TCP and UDP sockets to transmit raw data over the net
 - x86 assembly
 - C++
+- C#
 
 
 <br/>
