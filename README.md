@@ -7,8 +7,12 @@ With over a decade of programming experience, I continue to enjoy working on new
 To learn more about me and my projects, visit https://icseon.com.
 
 ### Technologies and languages I've worked with and used in production environments
+
 - **Express**\
 I use ExpressJS to scaffold a full MVC application and add my own additions on top for purposes such as authentication, authorization and the like through middleware and services.
+
+- **socket.io**\
+I use socket.io to replace ExpressJS for when I need realtime communication between the client and server for things like notifications, commands and chat messages.
 
 - **Vue**\
 All of my projects since 2019 use Vue as the front end framework to ensure a consistent, quick and fluid user experience, no matter how good your internet connection is.
