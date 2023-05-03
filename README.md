@@ -50,7 +50,7 @@ Primarily for low level networking, utilizing the power of TCP and UDP sockets t
 /* 
  * @author      Icseon <https://github.com/Icseon>
  * @description Immutable motto message to reflect my general thought about software development
- * @var         String
+ * @type        String
  */
 const motto = 'Most of the time, keeping it simple is the hardest part.';
 ```
