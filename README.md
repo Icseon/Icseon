@@ -1,5 +1,4 @@
 Hello there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Icseon&left_color=blue&right_color=blue)
 ---
 
 ### I am Icseon!
