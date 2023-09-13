@@ -46,7 +46,7 @@ Primarily for low level networking, utilizing the power of TCP and UDP sockets t
 
 <br/>
 
-```js
+```ts
 /* 
  * @author      Icseon <https://github.com/Icseon>
  * @description Immutable motto message to reflect my general thought about software development
